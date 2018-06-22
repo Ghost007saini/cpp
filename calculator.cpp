@@ -10,6 +10,7 @@ int main()
   cout<<"sum:"<<a+b;   
  
 getch();
+ return 0;
 }
 
 
