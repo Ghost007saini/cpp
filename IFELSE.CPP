@@ -1,7 +1,7 @@
 #include<iostream.h>
 #include<conio.h>
-int main()
-{system("cls");
+void main()
+{clrscr();
 int d;
 float c,f;
 cout<<"     *********>>>>>>>>>>>>>>Welcome to Temperature convertion<<<<<<<<******* ";
@@ -28,5 +28,5 @@ cout<<" \n\n\n \n\n\n\n\n\n\n";
 cout<<"                   CREDITS ";
 cout<<"\n           created by SAMEER SAINI  ";
 getch();
- return 0;
+
 }
