@@ -30,3 +30,4 @@ cout<<"\n           created by SAMEER SAINI  ";
 getch();
  return 0;
 }
+//yash mor
