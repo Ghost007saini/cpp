@@ -1,0 +1,4 @@
+import time
+for x in "hello world":
+    print(x,end="")
+    time.sleep(1)
