@@ -1,5 +1,18 @@
-#include<iostream.h>
+#include<iostream>
 void main()
 {
-cout<<"Hello World!";
+std::cout<<"Hello World!";
 }
+
+
+// OR:
+/*
+#include <iostream>
+using namespace std;
+
+void main(){
+
+cout<<"Hello World!";
+
+}
+*/
